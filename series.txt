@@ -1,0 +1,25 @@
+26,The Walking Dead,47,Action,4.8,11,The Killer Within,3
+27,The Last of Us,43,Action,4.5,1,Endure and Survive,1
+28,Rick and Morty,22,Action,4.9,6,Pickle Rick,3
+29,The hundred,40,Action,4.7,7,Spacewalker,2 
+30,Outlander,53,Action,4.8,6,Dragonfly in Amber,2
+31,The Office,32,Comedy,4.9,9,Casino Night,2
+32,Full House,25,Comedy,4.7,8,The Whole-In-The-Wall Gang,4
+33,Boy Meets World,23,Comedy,4.5,7,Heartbreak Cory,5 
+34,Modern Family,24,Comedy,4.9,11,Connection Lost6 
+35,South Park,22,Comedy,4.8,26,Imaginationland,11
+36,Gilmore Girls,45,Romance,4.8,7,Love and War and Snow,1
+37,Bridgerton,50,Romance,4.7,3,Swish,1 
+38,Love is Blind,48,Romance,3.9,4,The Reunion,3 
+39,Emily in Paris,30,Romance,4.2,3,Cancel Couture,1
+40,Grey's Anatomy,43,Romance,4.8,19,Death and All His Friends,6
+41,Skins,46,Drama,4.8,7,Cassie,1 
+42,Black mirror,50,Drama,4.9,5,Black Museum,4
+43,Game of Thrones,60,Drama,4.8,8,Fire and Blood,1
+44,Breaking Bad,50,Drama,4.9,5,Crawl Space,4 
+45,Euphoria,50,Drama,4.9,2,Stand Still Like the Hummingbird,2
+46,Attack on Titan,24,Horror,4.9,4,Memories of The Future,4
+47,American Horror Story,40,Horror,4.8,11,Return to Murder House,8
+48,Stranger Things,75,Horror,4.8,4,Holly Jolly,1
+49,Slasher,46,Horror,4.5,5,The Past is Never Dead,2
+50,Kingdom,46,Horror,4.4,2,Episode 6,2 

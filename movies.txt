@@ -1,0 +1,25 @@
+1,The Matrix,136,Action,4.7,Lana Wachowski
+2,Top Gun:Maverick,110,Action,4.8,Tony Scott
+3,The Rock,130,Action,4.3,Michael Bay
+4,Fast Five,130,Action,4.7,Justin Lin
+5,Batman,176,Action,3.9,Matt Reeves
+6,Pitch Perfect,112,Comedy,4.7,Jason Moore
+7,Zoolander,89,Comedy,4.5,Ben Stiller
+8,Legally Blonde,96,Comedy,4.9,Robert Luketic
+9,Mean Girls,97,Comedy,4.9,Mark Waters
+10,Clueless,98,Comedy,4.9,Amy Heckerling
+11,The Notebook,124,Romance,4.9,Nick Cassavetes
+12,Casa Blanca,102,Romance,4.8,Michael Curtiz
+13,Pride and Prejudice,127,Romance,4.8,Joe Wright
+14,Titanic,194,Romance,4.8,James Cameron
+15,Dirty Dancing,97,Romance,4.6,Emile Ardolino
+16,12 Years a Slave,134,Drama,4.7,Steve McQueen
+17,A Star Is Born,135,Drama,4.7,Bradley Cooper
+18,Atonement,123,Drama,4.9,Joe Wright
+19,Beautiful Boy,120,Drama,4.8,Felix Van Groeningen
+20,Dunkirk,106,Drama,4.7,Christopher Nolan
+21,Phenomena,116,Horror,4.3,Dario Argento
+22,The Ring,115,Horror,4.8,Jonathan Liebesman
+23,Scream,120,Horror,4.7,Tyler Gillet 
+24,The Conjuring,112,Horror,4.7,James Wan
+25,The Exorcist,132,Horror,4.7,John Boorman
